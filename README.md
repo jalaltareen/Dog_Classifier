@@ -9,7 +9,6 @@ if a human is detected in the image, return the Human is detected.
 ## Files Included
 ------------------------------------------------------------------------------------------------------------------------------------------
  - dog-app.ipynb: Jupyter Notebook file for classifying dog images
- - Image folder: The images folder has the test images for this project.
  - Saved _models: The Models saved during this project.
 
 
